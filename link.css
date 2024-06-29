@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+}
+.main{
+    display: flex;
+    align-items: center;
+    padding: 20px 300px;
+    justify-content: space-between;
+    border: 1px solid rgb(177, 173, 173);
+    position: sticky;
+    background-color: white;
+    top: 0;
+}
+.main p{
+    cursor: pointer;
+}
+.main p:hover{
+    text-decoration: underline;
+}
+.img{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-between;
+}   
+.text button{
+    width: 150px;
+    height: 40px;
+    color: #000000;
+    border: none;
+}
+.main1{
+    display: flex;
+    padding: 20px 200px;
+    align-items: center;
+    justify-content: space-between;
+}
+.text1 h1{
+    font-size: 80px;
+}
+.text1 p{
+    margin-top: 30px;
+    font-size: 30px;
+}
+.text1 button{
+    margin-top: 50px;
+    width: 250px;
+    height: 50px;
+    background-color: #263238;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.text2 h1{
+    text-align: center;
+    margin-top: 150px;
+}
+.main2{
+    display: flex;
+    width:430px;
+    border: 1px solid #F5F5F5;
+    height: 800px;
+    background-color: #F5F5F5;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.text3 h2{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+.text3 p{
+    text-align: start;
+    margin-left: 40px;
+    margin-top: 40px;
+    color: #8F95A5;
+}
+.text3 button{
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: #263238;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+.main6{
+    display: flex;
+    width:800px;
+    border: 1px solid #F5F5F5;
+    height: 600px;
+    background-color: #F5F5F5;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.text4 h2{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+.text4 p{
+    text-align: start;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: #8F95A5;
+}
+.text4 button{
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: #263238;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+.main7{
+    z-index: -1;
+    margin-top: 600px;
+    position: absolute;
+    left: 800px;
+    display: flex;
+    width: 750px;
+    height: 300px;
+    border: 1px solid #F5F5F5;
+    background-color: #F5F5F5;
+}
+.img8{
+        margin-left: 340px;
+        position: absolute;
+}
+.text8 h3{
+    margin-left: 100px;
+    font-family: sans-serif;
+    font-size: 30px;
+   margin-top: 40px;
+}
+.text8 p{
+    color: #8F95A5;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.text8 button{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+    background-color: #263238;
+    color: white;
+}
+.main10{
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    padding: 20px 300px;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+.tee1{
+   display: flex;
+   margin-top: 50px;
+   justify-content: space-between;
+}
+.h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.min{
+    display: flex;
+    padding: 30px 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgs1 p{
+    color: gray;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+.imgs1 button{
+
+    margin-top: 50px;
+}
+.min1{
+    display: flex;
+    margin-top: 150px;
+    padding: 20px 200px;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(202, 202, 202) ;
+}
+.teg h1{
+       font-family: sans-serif;
+       font-size: 40px;
+       margin-right: 300px;
+}
+.teg p{
+    margin-top: 30px;
+    color: #8F95A5;
+}
+.button {
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.button input {
+    font-size: 20px;
+    height: 50px;
+        width: 300px;
+}
+.button button{
+    margin-left: 40px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color:#263238;
+    font-family: sans-serif;
+}
+.min3{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    padding: 20px 200px;
+    justify-content: space-between;
+}
+.tegr{
+    color: #8F95A5;
+}
